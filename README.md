@@ -44,3 +44,7 @@ No method of local or internet storage is completely risk-free. Wallpaper APIs, 
 
 WallFlow is a general desktop application and is not designed to collect information from children. This policy may be updated with a later release; the current version is included with WallFlow and available from Settings or About.
 
+## 7. Pinterest integration
+
+Pinterest integration is not included in this version of WallFlow. The app does not request or store a Pinterest API key, connect to Pinterest, or send Pinterest account or wallpaper data to Pinterest. Do not add an API key to this policy, source code, or a distributed app package. If a future version adds Pinterest features, this policy will be updated before release to describe the data shared, how credentials are protected, and the choices available to users.
+
